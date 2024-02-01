@@ -13,7 +13,6 @@ Hello there! I'm Emil, a junior front end developer based in Esbjerg. I'm passio
 
 ### 🛠 Skills
 
-[List your skills or areas of expertise, e.g., JavaScript, React, Node.js, UI/UX design.]
 - TypeScript
 - JavaScript
 - Java
