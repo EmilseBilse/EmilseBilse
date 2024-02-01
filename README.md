@@ -7,13 +7,25 @@ Hello there! I'm Emil, a junior front end developer based in Esbjerg. I'm passio
 ### 🚀 About Me
 
 -    🔭 I’m currently working on [Weblager](https://www.weblager.dk).
--    🌱 I’m currently learning [mention any technologies, languages, or frameworks].
--    👯 I’m looking to collaborate on [type of projects or technologies].
--    🤔 I’m looking for help with [specific projects or technologies].
--    💬 Ask me about [topics or technologies you're comfortable discussing].
--    📫 How to reach me: [your email or social media links].
--    😄 Pronouns: [Your pronouns].
--    ⚡ Fun fact: [An interesting fact about you].
+-    🌱 I’m currently learning Svelte, Vuejs, PHP.
+-    💬 Ask me about Angular.
+-    📫 How to reach me: emil875b@easv365.dk.
+
+### 🛠 Skills
+
+[List your skills or areas of expertise, e.g., JavaScript, React, Node.js, UI/UX design.]
+- TypeScript
+- JavaScript
+- Java
+- C#
+- Kotlin
+- Angular
+- Unity
+- Node.js
+- Figma
+- Firebase
+- MySQL
+- Entity Framework
 
 
 
