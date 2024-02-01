@@ -6,7 +6,7 @@ Hello there! I'm Emil, a junior front end developer based in Esbjerg. I'm passio
 
 ### 🚀 About Me
 
--    🔭 I’m currently working on [mention any projects or companies].
+-    🔭 I’m currently working on [Weblager](https://www.weblager.dk).
 -    🌱 I’m currently learning [mention any technologies, languages, or frameworks].
 -    👯 I’m looking to collaborate on [type of projects or technologies].
 -    🤔 I’m looking for help with [specific projects or technologies].
@@ -15,14 +15,17 @@ Hello there! I'm Emil, a junior front end developer based in Esbjerg. I'm passio
 -    😄 Pronouns: [Your pronouns].
 -    ⚡ Fun fact: [An interesting fact about you].
 
+
+
+<!--
+
 I graduated Computer science in January 2023, summer 2023 i started Webdevelopment on EASV (Business Academy SouthWest)
 My main interests is frontend development.
 
 Work experiences / fields of interests:
 - Software Development (TypeScript, Angular, JavaScript, PHP, Svelte, Python, C#, Java, Kotlin)
-- 
 
-<!--
+
 **EmilseBilse/EmilseBilse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
