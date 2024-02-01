@@ -2,7 +2,7 @@
 
 ### 👋 Introduction
 
-Hello there! I'm Emil, a junior front end developer based in Esbjerg. I'm passionate about web and app development. Welcome to my GitHub!
+Hello there! I'm Emil, a junior frontend developer based in Esbjerg. I'm passionate about web and app development. Welcome to my GitHub!
 
 ### 🚀 About Me
 
